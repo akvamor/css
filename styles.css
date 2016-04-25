@@ -1,0 +1,16 @@
+.html101-wear-section{
+  position: relative;
+  background: url('images/0T6A3336.jpg') center no-repeat;
+  background-size: cover;
+  height: 400px;
+  color: white;
+  line-height: 400px;
+  text-align: center;
+}
+
+.html101-wear-section p{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+
+}
